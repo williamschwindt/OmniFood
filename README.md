@@ -1,7 +1,6 @@
 # OmniFood
 
-First project I did and it's file structure is very messy and bugged
-
-Fully functional website though
-
-Very few commits because it was made before my github account
+Omnifood is a landing page for a food delivery business. 
+This project focuses on clean style while following web designs best practices. 
+Some of the features include a sticky navigation bar, smooth scroll, 
+and animated text, images and buttons.
